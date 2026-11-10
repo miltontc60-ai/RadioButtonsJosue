@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RadioButtons - Josué</string>
+    <string name="student_name">Estudiante: Josué</string>
+    <string name="course_title">Aplicaciones Móviles - Semana 2</string>
+    
+    <!-- Menu items -->
+    <string name="title_encuesta">1. Encuesta de Satisfacción</string>
+    <string name="desc_encuesta">Calificación de servicio con opciones múltiples y resumen interactivo.</string>
+    
+    <string name="title_tema">2. Selector de Tema</string>
+    <string name="desc_tema">Selección y aplicación de modo Claro, Oscuro o Sistema.</string>
+    
+    <string name="title_quiz">3. Quiz Simple</string>
+    <string name="desc_quiz">Cuestionario con preguntas de opción múltiple y cálculo de puntaje.</string>
+    
+    <string name="title_propinas">4. Calculadora de Propinas</string>
+    <string name="desc_propinas" formatted="false">Cálculo de porcentaje de propina (10%, 15%, 20%) y monto total.</string>
+    
+    <string name="title_conversor">5. Conversor de Unidades</string>
+    <string name="desc_conversor">Conversión de longitud, peso y temperatura según el tipo seleccionado.</string>
+</resources>
